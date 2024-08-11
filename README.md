@@ -1,8 +1,8 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working on frontend development
-- 🌱 I’m currently a university student in China
-- 🤔 I’m playing Genshin Impact and Honkai Star Rail at the same time
+- 🌱 I'm currently a university student in China.
+- 🔭 I'm currently working on Artificial Intelligence (Deep Learning).
+- 🤔 I'm currently focused on Computer Vision related technologies, but have a great interest in all areas of Computer Science.
 
 <a href="https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only">
   <img height="150" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JustlfC03&layout=compact&theme=dark"/>
