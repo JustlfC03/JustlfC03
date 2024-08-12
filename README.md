@@ -1,4 +1,4 @@
-### Hi there 👋
+![image](https://github.com/user-attachments/assets/dfa99a3a-e542-4cd9-a748-12e327198f90)### Hi there 👋
 
 - 🌱 I'm currently a university student in China.
 - 🔭 I'm currently working on Artificial Intelligence (Deep Learning).
@@ -6,20 +6,17 @@
 - 👯 I’m looking to collaborate on Computer Vision, Medical Image Analysis and Medical MultiModal (Be free to contact me).
 - 📫 How to reach me: chenyifei@hdu.edu.cn
 
-<!--
-<a href="https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only">
-  <img height="150" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JustlfC03&layout=compact&theme=dark"/>
-</a>
-<a href="https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only">
-  <img height="150" align="center" src="https://github-readme-stats.vercel.app/api?username=JustlfC03&show_icons=true&theme=dark&hide=contribs&rank_icon=percentile"/>
-</a>
--->
-
 <a href="https://github.com/anuraghazra/github-readme-stats#gh-light-mode-only">
   <img height="150" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JustlfC03&layout=compact&theme=default"/>
 </a>
 <a href="https://github.com/anuraghazra/github-readme-stats#gh-light-mode-only">
   <img height="150" align="center" src="https://github-readme-stats.vercel.app/api?username=JustlfC03&show_icons=true&theme=default&hide=contribs&rank_icon=percentile"/>
+</a>
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=lcbkmm&repo=TC-KANRecon" />
+</a>
+<a href="https://github.com/anuraghazra/convoychat">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Tinysqua&repo=GFE-Mamba" />
 </a>
 
 <!--
