@@ -18,9 +18,6 @@
 <a href="https://github.com/anuraghazra/github-readme-stats#gh-light-mode-only">
   <img height="150" align="center" src="https://github-readme-stats.vercel.app/api?username=JustlfC03&show_icons=true&theme=default&hide=contribs&rank_icon=percentile"/>
 </a>
-<a href="https://github.com/anuraghazra/github-readme-stats#gh-light-mode-only">
-  <img height="150" align="center" src="https://github-readme-stats.vercel.app/api?username=JustlfC03&show_icons=true&theme=default&hide=contribs&rank_icon=percentile"/>
-</a>
 
 <!--
 - 🌱 I’m currently learning ...
