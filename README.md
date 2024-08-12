@@ -3,7 +3,7 @@
 - 🌱 I'm currently a university student in China.
 - 🔭 I'm currently working on Artificial Intelligence (Deep Learning).
 - 🤔 I'm currently focused on Computer Vision related technologies, but have a great interest in all areas of Computer Science.
-- 👯 I’m looking to collaborate on Computer Vision, Medical Image Analysis and Medical MultiModal.
+- 👯 I’m looking to collaborate on Computer Vision, Medical Image Analysis and Medical MultiModal (Be free to contact me for cooperation).
 - 📫 How to reach me: chenyifei@hdu.edu.cn
 
 <a href="https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only">
