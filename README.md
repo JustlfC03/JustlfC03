@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/dfa99a3a-e542-4cd9-a748-12e327198f90)### Hi there 👋
+### Hi there 👋
 
 - 🌱 I'm currently a university student in China.
 - 🔭 I'm currently working on Artificial Intelligence (Deep Learning).
