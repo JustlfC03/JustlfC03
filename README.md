@@ -12,12 +12,15 @@
 <a href="https://github.com/anuraghazra/github-readme-stats#gh-light-mode-only">
   <img height="150" align="center" src="https://github-readme-stats.vercel.app/api?username=JustlfC03&show_icons=true&theme=default&hide=contribs&rank_icon=percentile"/>
 </a>
+
+<!--
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=lcbkmm&repo=TC-KANRecon" />
 </a>
 <a href="https://github.com/anuraghazra/convoychat">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Tinysqua&repo=GFE-Mamba" />
 </a>
+-->
 
 <!--
 - 🌱 I’m currently learning ...
