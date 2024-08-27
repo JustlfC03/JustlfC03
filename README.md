@@ -3,7 +3,7 @@
 - 🌱 I'm currently a university student in China.
 - 🔭 I'm currently working on Artificial Intelligence (Deep Learning).
 - 🤔 I'm currently focused on Computer Vision and Pattern Recognition, but have a great interest in all areas of Computer Science.
-- 👯 I’m looking to collaborate on Pattern Recognition, Medical Image Analysis and Medical MultiModal Diagnosis (Please be free to contact me).
+- 👯 I’m looking to collaborate on Pattern Recognition, Medical Image Analysis and Medical MultiModal Diagnosis (Be free to contact me).
 - 📫 How to reach me: chenyifei@hdu.edu.cn, I would be willing to collaborate with you or your team on a variety of related topics.
 
 <a href="https://github.com/anuraghazra/github-readme-stats#gh-light-mode-only">
