@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- 🌱 I'm currently a university student in China (Tsinghua University, Hangzhou Dianzi University).
+- 🌱 I'm currently a university student in China ([Tsinghua University](https://www.tsinghua.edu.cn), [Hangzhou Dianzi University](https://www.hdu.edu.cn)).
 - 🔭 I'm currently working on Artificial Intelligence (Now especially in the field of Deep Learning).
 - 🤔 I'm currently focused on Computer Vision and Pattern Recognition, but have interest in all areas of Computer Science.
 - 👯 I’m looking to deeply collaborate on Pattern Recognition, Medical Image Analysis and Artificial Intelligence in Healthcare.
