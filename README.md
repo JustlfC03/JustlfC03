@@ -1,4 +1,4 @@
-# 👋 Hi there ![](https://komarev.com/ghpvc/?username=JustlfC03&label=PROFILE+VIEWS)
+# 👋 Hi there 
 
 - 🌱 I'm currently a university student in China ([Tsinghua University](https://www.tsinghua.edu.cn), [Hangzhou Dianzi University](https://www.hdu.edu.cn)).
 - 🔭 I'm currently focused on Artificial Intelligence (Now especially in the field of AI for Science).
@@ -6,7 +6,7 @@
 - 👯 I’m looking to deeply collaborate on Pattern Recognition, Medical Image Analysis and Artificial Intelligence for Medical.
 - 📫 How to reach me: chenyifei@hdu.edu.cn, I would be willing to collaborate with you or your team on a variety of related topics.
 
-## 📊 GitHub Stats: 
+# 📊 GitHub Stats: ![](https://komarev.com/ghpvc/?username=JustlfC03&label=PROFILE+VIEWS)
 
 <a href="https://github.com/anuraghazra/github-readme-stats#gh-light-mode-only">
   <img height="150" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JustlfC03&layout=compact&theme=default"/>
