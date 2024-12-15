@@ -1,4 +1,4 @@
-## 👋 Hi there: 
+## 👋 Hi there: ![](https://komarev.com/ghpvc/?username=JustlfC03&label=PROFILE+VIEWS)
 
 - 🌱 I'm currently a university student in China ([Tsinghua University](https://www.tsinghua.edu.cn), [Hangzhou Dianzi University](https://www.hdu.edu.cn)).
 - 🔭 I'm currently focused on Artificial Intelligence (Now especially in the field of AI for Science).
