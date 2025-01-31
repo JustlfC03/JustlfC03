@@ -13,7 +13,6 @@
   <img height="150" align="center" src="https://github-readme-stats.vercel.app/api?username=JustlfC03&show_icons=true&theme=default&rank_icon=percentile"/>
   <img height="150" align="center" src="https://streak-stats.demolab.com?user=JustlfC03&theme=transparent&card_height=150"/>
 </a>
-[![GitHub Streak](https://streak-stats.demolab.com?user=JustlfC03&theme=transparent&card_height=150)](https://git.io/streak-stats)
 
 <!--
 <a href="https://github.com/anuraghazra/github-readme-stats">
