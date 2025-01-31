@@ -13,6 +13,8 @@
   <img height="150" align="center" src="https://github-readme-stats.vercel.app/api?username=JustlfC03&show_icons=true&theme=default&rank_icon=percentile"/>
 </a>
 
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=JustlfC03)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
 <!--
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=lcbkmm&repo=TC-KANRecon" />
