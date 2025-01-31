@@ -17,7 +17,7 @@
 </a>
 
 <a href="https://github.com/anuraghazra/github-readme-stats#gh-light-mode-only">
-<img height="150" align="center" src="https://streak-stats.demolab.com?user=JustlfC03&theme=transparent&card_height=300"/>
+<img height="150" align="center" src="https://streak-stats.demolab.com?user=JustlfC03&theme=transparent&card_height=150"/>
 </a>
 
 <!--
