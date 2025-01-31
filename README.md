@@ -10,7 +10,9 @@
 
 <a href="https://github.com/anuraghazra/github-readme-stats#gh-light-mode-only">
   <img height="150" align="left" width="50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JustlfC03&layout=compact&theme=default"/>
+  <img height="150" align="right" width="50%" src="https://github-readme-stats.vercel.app/api?username=JustlfC03&show_icons=true&theme=default&rank_icon=percentile"/>
 </a>
+
 <a href="https://github.com/anuraghazra/github-readme-stats#gh-light-mode-only">
   <img height="150" align="right" width="50%" src="https://github-readme-stats.vercel.app/api?username=JustlfC03&show_icons=true&theme=default&rank_icon=percentile"/>
 </a>
