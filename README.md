@@ -13,11 +13,11 @@
 </a>
 
 <a href="https://github.com/anuraghazra/github-readme-stats#gh-light-mode-only">
-  <img width="150" height="150" align="center" src="https://github-readme-stats.vercel.app/api?username=JustlfC03&show_icons=true&theme=default&rank_icon=percentile"/>
+  <img height="150" align="center" src="https://github-readme-stats.vercel.app/api?username=JustlfC03&show_icons=true&theme=default&rank_icon=percentile"/>
 </a>
 
 <a href="https://github.com/anuraghazra/github-readme-stats#gh-light-mode-only">
-<img height="150" align="center" src="https://streak-stats.demolab.com?user=JustlfC03&theme=transparent&card_width=200&card_height=150"/>
+<img height="150" align="center" src="https://streak-stats.demolab.com?user=JustlfC03&theme=transparent"/>
 </a>
 
 <!--
