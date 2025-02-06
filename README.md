@@ -9,19 +9,16 @@
 # 📊 GitHub Stats: ![](https://komarev.com/ghpvc/?username=JustlfC03&label=PROFILE+VIEWS)
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img height="205" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JustlfC03&layout=compact&theme=default"/>
+  <img height="202" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JustlfC03&layout=compact&theme=default"/>
 </a>
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img height="205" align="center" src="https://github-readme-stats.vercel.app/api?username=JustlfC03&show_icons=true&theme=default&rank_icon=percentile"/>
+  <img height="202" align="center" src="https://github-readme-stats.vercel.app/api?username=JustlfC03&show_icons=true&theme=default&rank_icon=percentile"/>
 </a>
 
 <!--
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=lcbkmm&repo=TC-KANRecon" />
-</a>
 <a href="https://github.com/anuraghazra/convoychat">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Tinysqua&repo=GFE-Mamba" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=JustlfC03&repo=xxx" />
 </a>
 -->
 
