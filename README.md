@@ -17,7 +17,7 @@
 </a>
 
 <div align="center" style="font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;">
-  <p>Visitor Counts</p>
+  <p>Profile Visitor Count</p>
   <img src="https://profile-counter.glitch.me/JustlfC03/count.svg" alt="Profile Visitor Count" />
 </div>
 
