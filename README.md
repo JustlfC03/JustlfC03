@@ -28,11 +28,6 @@
 
 ## 𝚂𝚑𝚘𝚠 𝚜𝚘𝚖𝚎 ❤️ 𝚋𝚢 𝚜𝚝𝚊𝚛𝚛𝚒𝚗𝚐 𝚜𝚘𝚖𝚎 𝚘𝚏 𝚝𝚑𝚎 𝚛𝚎𝚙𝚘𝚜𝚒𝚝𝚘𝚛𝚒𝚎𝚜!
 
-![暗色](https://raw.githubusercontent.com/JustlfC03/JustlfC03/output/github-contribution-grid-snake-dark.svg)
-<!--
-![亮色](https://raw.githubusercontent.com/JustlfC03/JustlfC03/output/github-contribution-grid-snake.svg)
--->
-
 <!--
 <a href="https://github.com/anuraghazra/convoychat">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=JustlfC03&repo=xxx" />
