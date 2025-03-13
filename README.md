@@ -5,7 +5,7 @@
 - 👯 I’m looking to collaborate on AI for Medical: Medical Image Analysis, Multimodal for Medical and Large Model for Medical.
 - 📫 How to reach me: [justlfc03@gmail.com](mailto:justlfc03@gmail.com). I would be willing to collaborate with you or your team on a variety of related topics.
 
-# 📊 GitHub Stats: ![](https://komarev.com/ghpvc/?username=JustlfC03&label=PROFILE+VIEWS)
+# 📊 GitHub Stats ![](https://komarev.com/ghpvc/?username=JustlfC03&label=PROFILE+VIEWS)
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img height="200" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JustlfC03&layout=compact&theme=default"/>
