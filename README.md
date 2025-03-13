@@ -3,7 +3,7 @@
 - 🌱 I'm an incoming PhD. student at [BIRTH Lab](https://birthlab.github.io/) from [School of Biomedical Engineering](https://www.med.tsinghua.edu.cn/en/), [Tsinghua University](https://www.tsinghua.edu.cn/).
 - 🔭 I'm currently focused on Artificial Intelligence, but also have a depp interest in all areas of Computer Science.
 - 👯 I’m looking to collaborate on AI for Medical: Medical Image Analysis, Multimodal for Medical and Large Model for Medical.
-- 📫 How to reach me: justlfc03@gmail.com, I would be willing to collaborate with you or your team on a variety of related topics.
+- 📫 How to reach me: [justlfc03@gmail.com](mailto:justlfc03@gmail.com). I would be willing to collaborate with you or your team on a variety of related topics.
 
 # 📊 GitHub Stats: ![](https://komarev.com/ghpvc/?username=JustlfC03&label=PROFILE+VIEWS)
 
