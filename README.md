@@ -16,7 +16,7 @@
 </a>
 
 <div align="center" style="margin-top: 20px;">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&pause=1000&center=true&vCenter=true&width=700&height=55&lines=Always stay passionate. Always keep learning." alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&pause=1000&center=true&vCenter=true&width=800&height=55&lines=Always stay passionate. Always keep learning." alt="Typing SVG" />
 </div>
 <div align="center">
 
