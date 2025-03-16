@@ -22,7 +22,7 @@
 
 <!-- Fun Gimmicks -->
 <div align="center" style="margin-top: 20px;">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=F7DF1E&center=true&vCenter=true&width=435&lines=Always keep passionate;Always keep learning;Always keep modest" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=F7DF1E&center=true&vCenter=true&width=435&lines=Always keep passionate. Always keep learning. Always keep modest." alt="Typing SVG" />
 </div>
 <div align="center">
 
