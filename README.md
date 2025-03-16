@@ -15,14 +15,16 @@
   <img height="200" align="center" src="https://github-readme-stats.vercel.app/api?username=JustlfC03&show_icons=true&theme=default&rank_icon=percentile"/>
 </a>
 
+<!--
 <div align="center" style="font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;">
   <p>Profile Visitor Count</p>
   <img src="https://profile-counter.glitch.me/JustlfC03/count.svg" alt="Profile Visitor Count" />
 </div>
+-->
 
 <!-- Fun Gimmicks -->
 <div align="center" style="margin-top: 20px;">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&center=false&vCenter=true&width=700&height=55&lines=Always stay passionate. Always keep learning." alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&center=true&vCenter=true&width=700&height=55&lines=Always stay passionate. Always keep learning." alt="Typing SVG" />
 </div>
 <div align="center">
 
