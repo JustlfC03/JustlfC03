@@ -14,7 +14,14 @@
   <img height="195" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JustlfC03&layout=compact&theme=default"/>
 </a>
 
-<p style="text-align: justify">Always stay passionate and always keep learning.</p>
+<style>
+.justify-text {
+    text-align: justify;
+    text-justify: inter-word;
+}
+</style>
+
+<p class="justify-text">Always stay passionate and always keep learning.</p>
 
 ![](https://capsule-render.vercel.app/api?type=waving&height=150&color=gradient&section=footer&reversal=false)
 
