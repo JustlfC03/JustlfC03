@@ -14,6 +14,7 @@
   <img height="195" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JustlfC03&layout=compact&theme=default"/>
 </a>
 
+> <span style="font-size: 24px">"Always stay passionate and always keep learning."</span>
 > "Always stay passionate and always keep learning."
 <h1 style="text-align: justify">Always stay passionate and always keep learning.</h1>
 
