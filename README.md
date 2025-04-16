@@ -14,7 +14,7 @@
   <img height="195" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JustlfC03&layout=compact&theme=default"/>
 </a>
 
-<div style="text-align: justify">## Always stay passionate and always keep learning.</div>
+<h2 align="justify">Always stay passionate and always keep learning.</h2>
 
 ![](https://capsule-render.vercel.app/api?type=waving&height=150&color=gradient&section=footer&reversal=false)
 
