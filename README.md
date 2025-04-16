@@ -16,11 +16,9 @@
 
 > "Always stay passionate and always keep learning."
 
-<!--
 <div align="center" style="margin-top: 20px;">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&pause=1000&center=true&vCenter=true&width=900&height=55&lines=Always stay passionate and always keep learning." alt="Typing SVG" />
 </div>
--->
 
 ![](https://capsule-render.vercel.app/api?type=waving&height=150&color=gradient&section=footer&reversal=false)
 
