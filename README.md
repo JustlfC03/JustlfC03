@@ -14,9 +14,11 @@
   <img height="195" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JustlfC03&layout=compact&theme=default"/>
 </a>
 
-<div style="font-size: 60px;">
-> "Always stay passionate and always keep learning."
-</div>
+<blockquote style="font-size: 30px;">
+
+"Always stay passionate and always keep learning."
+
+</blockquote>
 
 > "Always stay passionate and always keep learning."
 
