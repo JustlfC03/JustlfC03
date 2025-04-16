@@ -14,12 +14,8 @@
   <img height="195" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JustlfC03&layout=compact&theme=default"/>
 </a>
 
-> "Always stay passionate and always keep learning."
-
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&center=true&vCenter=true&width=900&height=55&lines=Always stay passionate and always keep learning.)](https://git.io/typing-svg)
-
 <div align="center" style="margin-top: 20px;">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&pause=1000&center=true&vCenter=true&width=900&height=55&lines=Always stay passionate and always keep learning." alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&pause=1000&center=true&vCenter=true&width=900&height=55&lines=⭐Always stay passionate and always keep learning.⭐" alt="Typing SVG" />
 </div>
 
 ![](https://capsule-render.vercel.app/api?type=waving&height=150&color=gradient&section=footer&reversal=false)
