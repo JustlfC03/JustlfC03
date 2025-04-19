@@ -1,4 +1,6 @@
- # 👋 Hi there 
+![](https://capsule-render.vercel.app/api?type=waving&height=150&color=gradient&text=HI%20THERE&reversal=true)
+
+ # 👋 Basic Profile 
 
 - 🌱 I'm an incoming PhD. student at [BIRTH Lab](https://birthlab.github.io/) from [School of Biomedical Engineering](https://www.med.tsinghua.edu.cn/en/), [Tsinghua University](https://www.tsinghua.edu.cn/).
 - 🔭 I'm currently focused on Artificial Intelligence, but also have a depp interest in all areas of Computer Science.
@@ -14,11 +16,13 @@
   <img height="195" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JustlfC03&layout=compact&theme=default"/>
 </a>
 
+![](https://capsule-render.vercel.app/api?type=waving&height=150&color=gradient&section=footer&reversal=false)
+
+<!--
 <div align="center" style="margin-top: 20px;">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&pause=1000&center=true&vCenter=true&width=900&height=55&lines=⭐Always stay passionate and always keep learning.⭐" alt="Typing SVG" />
 </div>
-
-![](https://capsule-render.vercel.app/api?type=waving&height=150&color=gradient&section=footer&reversal=false)
+-->
 
 <!--
 ## 𝚂𝚑𝚘𝚠 𝚜𝚘𝚖𝚎 ❤️ 𝚋𝚢 𝚜𝚝𝚊𝚛𝚛𝚒𝚗𝚐 𝚜𝚘𝚖𝚎 𝚘𝚏 𝚝𝚑𝚎 𝚛𝚎𝚙𝚘𝚜𝚒𝚝𝚘𝚛𝚒𝚎𝚜!
