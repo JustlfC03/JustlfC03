@@ -2,7 +2,7 @@
 
  # 👋 Basic Profile 
 
-- 🌱 I'm a first-year PhD student at [BIRTH Lab](https://birthlab.github.io/) from [School of Biomedical Engineering](https://www.med.tsinghua.edu.cn/en/), [Tsinghua University](https://www.tsinghua.edu.cn/).
+- 🌱 I'm currently a PhD student at [BIRTH Lab](https://birthlab.github.io/) from [School of Biomedical Engineering](https://www.med.tsinghua.edu.cn/en/), [Tsinghua University](https://www.tsinghua.edu.cn/).
 - 🔭 I'm focused on AI for Medicine and looking to collaborate on Medical Image Analysis, Multimodal Learning, and Large Model.
 - 📫 How to reach me: [justlfc03@gmail.com](mailto:justlfc03@gmail.com). I would be willing to collaborate with you or your team on a variety of related topics.
 
