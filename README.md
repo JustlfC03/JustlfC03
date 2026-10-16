@@ -3,7 +3,7 @@
  # 👋 Basic Profile 
 
 - 🌱 I'm currently a Ph.D. student at the [BIRTH Lab](https://birthlab.github.io/) from [School of Biomedical Engineering](https://www.med.tsinghua.edu.cn/en/), [Tsinghua University](https://www.tsinghua.edu.cn/).
-- 🔭 I welcome collaborations in Medical Image Analysis, Multimodal Learning, Foundation Models, and Nuclear Medicine Imaging.
+- 🔭 Seeking collaboration in Medical Image Analysis, Multimodal Learning, Foundation Models, and Nuclear Medicine Imaging.
 - 📫 How to reach me: [justlfc03@gmail.com](mailto:justlfc03@gmail.com). Feel free to reach out if you're interested in my research or have new ideas for collaboration!
 
 <!--
